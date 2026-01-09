@@ -2,7 +2,7 @@ PRUEBA TECNICA CONSULTOR ANALÍTICO
 
 BLOQUE 1
 
-Este proyecto es un construido con Django el cual incluye una tabla con datos simulados
+Este proyecto es construido con Django el cual incluye una tabla con datos simulados
 (Fecha, Cliente, Métrica, Valor) generados desde el backend y renderizados en una 
 plantilla HTML.
 
